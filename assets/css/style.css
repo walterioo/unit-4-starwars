@@ -1,0 +1,44 @@
+.container {
+    width: 960px;
+    margin-left: 10px;
+
+
+}
+
+.text {
+    text-align: left;
+    display: block;
+    padding: 10px;
+}
+.character-selection {
+    color: blue;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    margin-right: 5px;
+}
+
+.character {
+    width: 200px;
+    display: inline-block;
+    border: 3px solid gainsboro;
+    margin-top: 20px;
+    margin-right: 5px;
+    text-align: center;
+}
+
+.enemy {
+    background-color: red;
+}
+
+#defender {
+    background-color: aquamarine;
+}
+
+#attack-button,
+#reset-button {
+    margin: 10px;
+    
+}
